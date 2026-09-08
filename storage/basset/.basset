@@ -1,0 +1,338 @@
+{
+    "https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.compat.css": {
+        "asset_name": "https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.compat.css",
+        "asset_path": "https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.compat.css",
+        "asset_disk_path": "basset/cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.compat.css",
+        "asset_attributes": []
+    },
+    "https://cdn.jsdelivr.net/npm/noty@3.2.0-beta-deprecated/lib/noty.css": {
+        "asset_name": "https://cdn.jsdelivr.net/npm/noty@3.2.0-beta-deprecated/lib/noty.css",
+        "asset_path": "https://cdn.jsdelivr.net/npm/noty@3.2.0-beta-deprecated/lib/noty.css",
+        "asset_disk_path": "basset/cdn.jsdelivr.net/npm/noty@3.2.0-beta-deprecated/lib/noty.css",
+        "asset_attributes": []
+    },
+    "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/css/line-awesome.min.css": {
+        "asset_name": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/css/line-awesome.min.css",
+        "asset_path": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/css/line-awesome.min.css",
+        "asset_disk_path": "basset/cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/css/line-awesome.min.css",
+        "asset_attributes": []
+    },
+    "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-regular-400.woff2": {
+        "asset_name": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-regular-400.woff2",
+        "asset_path": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-regular-400.woff2",
+        "asset_disk_path": "basset/cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-regular-400.woff2",
+        "asset_attributes": []
+    },
+    "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-solid-900.woff2": {
+        "asset_name": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-solid-900.woff2",
+        "asset_path": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-solid-900.woff2",
+        "asset_disk_path": "basset/cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-solid-900.woff2",
+        "asset_attributes": []
+    },
+    "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-brands-400.woff2": {
+        "asset_name": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-brands-400.woff2",
+        "asset_path": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-brands-400.woff2",
+        "asset_disk_path": "basset/cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-brands-400.woff2",
+        "asset_attributes": []
+    },
+    "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-regular-400.woff": {
+        "asset_name": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-regular-400.woff",
+        "asset_path": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-regular-400.woff",
+        "asset_disk_path": "basset/cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-regular-400.woff",
+        "asset_attributes": []
+    },
+    "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-solid-900.woff": {
+        "asset_name": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-solid-900.woff",
+        "asset_path": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-solid-900.woff",
+        "asset_disk_path": "basset/cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-solid-900.woff",
+        "asset_attributes": []
+    },
+    "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-brands-400.woff": {
+        "asset_name": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-brands-400.woff",
+        "asset_path": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-brands-400.woff",
+        "asset_disk_path": "basset/cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-brands-400.woff",
+        "asset_attributes": []
+    },
+    "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-regular-400.ttf": {
+        "asset_name": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-regular-400.ttf",
+        "asset_path": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-regular-400.ttf",
+        "asset_disk_path": "basset/cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-regular-400.ttf",
+        "asset_attributes": []
+    },
+    "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-solid-900.ttf": {
+        "asset_name": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-solid-900.ttf",
+        "asset_path": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-solid-900.ttf",
+        "asset_disk_path": "basset/cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-solid-900.ttf",
+        "asset_attributes": []
+    },
+    "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-brands-400.ttf": {
+        "asset_name": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-brands-400.ttf",
+        "asset_path": "https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-brands-400.ttf",
+        "asset_disk_path": "basset/cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/fonts/la-brands-400.ttf",
+        "asset_attributes": []
+    },
+    "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/crud/src/resources/assets/css/common.css": {
+        "asset_name": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/crud/src/resources/assets/css/common.css",
+        "asset_path": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/crud/src/resources/assets/css/common.css",
+        "asset_disk_path": "basset/vendor/backpack/crud/src/resources/assets/css/common.css",
+        "asset_attributes": []
+    },
+    "https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js": {
+        "asset_name": "https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js",
+        "asset_path": "https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js",
+        "asset_disk_path": "basset/cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js",
+        "asset_attributes": []
+    },
+    "https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js": {
+        "asset_name": "https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js",
+        "asset_path": "https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js",
+        "asset_disk_path": "basset/cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js",
+        "asset_attributes": []
+    },
+    "https://cdn.jsdelivr.net/npm/noty@3.2.0-beta-deprecated/lib/noty.min.js": {
+        "asset_name": "https://cdn.jsdelivr.net/npm/noty@3.2.0-beta-deprecated/lib/noty.min.js",
+        "asset_path": "https://cdn.jsdelivr.net/npm/noty@3.2.0-beta-deprecated/lib/noty.min.js",
+        "asset_disk_path": "basset/cdn.jsdelivr.net/npm/noty@3.2.0-beta-deprecated/lib/noty.min.js",
+        "asset_attributes": []
+    },
+    "https://cdn.jsdelivr.net/npm/sweetalert@2.1.2/dist/sweetalert.min.js": {
+        "asset_name": "https://cdn.jsdelivr.net/npm/sweetalert@2.1.2/dist/sweetalert.min.js",
+        "asset_path": "https://cdn.jsdelivr.net/npm/sweetalert@2.1.2/dist/sweetalert.min.js",
+        "asset_disk_path": "basset/cdn.jsdelivr.net/npm/sweetalert@2.1.2/dist/sweetalert.min.js",
+        "asset_attributes": []
+    },
+    "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/crud/src/resources/assets/js/common.js": {
+        "asset_name": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/crud/src/resources/assets/js/common.js",
+        "asset_path": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/crud/src/resources/assets/js/common.js",
+        "asset_disk_path": "basset/vendor/backpack/crud/src/resources/assets/js/common.js",
+        "asset_attributes": []
+    },
+    "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/styles/base16/dracula.min.css": {
+        "asset_name": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/styles/base16/dracula.min.css",
+        "asset_path": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/styles/base16/dracula.min.css",
+        "asset_disk_path": "basset/cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/styles/base16/dracula.min.css",
+        "asset_attributes": []
+    },
+    "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/highlight.min.js": {
+        "asset_name": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/highlight.min.js",
+        "asset_path": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/highlight.min.js",
+        "asset_disk_path": "basset/cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/highlight.min.js",
+        "asset_attributes": []
+    },
+    "https://cdn.jsdelivr.net/npm/jquery-ui@1.13.2/dist/jquery-ui.min.js": {
+        "asset_name": "https://cdn.jsdelivr.net/npm/jquery-ui@1.13.2/dist/jquery-ui.min.js",
+        "asset_path": "https://cdn.jsdelivr.net/npm/jquery-ui@1.13.2/dist/jquery-ui.min.js",
+        "asset_disk_path": "basset/cdn.jsdelivr.net/npm/jquery-ui@1.13.2/dist/jquery-ui.min.js",
+        "asset_attributes": []
+    },
+    "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/crud/src/resources/assets/libs/jquery.mjs.nestedSortable2.js": {
+        "asset_name": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/crud/src/resources/assets/libs/jquery.mjs.nestedSortable2.js",
+        "asset_path": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/crud/src/resources/assets/libs/jquery.mjs.nestedSortable2.js",
+        "asset_disk_path": "basset/vendor/backpack/crud/src/resources/assets/libs/jquery.mjs.nestedSortable2.js",
+        "asset_attributes": []
+    },
+    "https://cdn.jsdelivr.net/npm/summernote@0.9.1/dist/summernote-lite.min.css": {
+        "asset_name": "https://cdn.jsdelivr.net/npm/summernote@0.9.1/dist/summernote-lite.min.css",
+        "asset_path": "https://cdn.jsdelivr.net/npm/summernote@0.9.1/dist/summernote-lite.min.css",
+        "asset_disk_path": "basset/cdn.jsdelivr.net/npm/summernote@0.9.1/dist/summernote-lite.min.css",
+        "asset_attributes": []
+    },
+    "https://cdn.jsdelivr.net/npm/summernote@0.9.1/dist/font/summernote.woff2": {
+        "asset_name": "https://cdn.jsdelivr.net/npm/summernote@0.9.1/dist/font/summernote.woff2",
+        "asset_path": "https://cdn.jsdelivr.net/npm/summernote@0.9.1/dist/font/summernote.woff2",
+        "asset_disk_path": "basset/cdn.jsdelivr.net/npm/summernote@0.9.1/dist/font/summernote.woff2",
+        "asset_attributes": []
+    },
+    "https://cdn.jsdelivr.net/npm/summernote@0.9.1/dist/summernote-lite.min.js": {
+        "asset_name": "https://cdn.jsdelivr.net/npm/summernote@0.9.1/dist/summernote-lite.min.js",
+        "asset_path": "https://cdn.jsdelivr.net/npm/summernote@0.9.1/dist/summernote-lite.min.js",
+        "asset_disk_path": "basset/cdn.jsdelivr.net/npm/summernote@0.9.1/dist/summernote-lite.min.js",
+        "asset_attributes": []
+    },
+    "https://cdn.jsdelivr.net/npm/urijs@1.19.11/src/URI.min.js": {
+        "asset_name": "https://cdn.jsdelivr.net/npm/urijs@1.19.11/src/URI.min.js",
+        "asset_path": "https://cdn.jsdelivr.net/npm/urijs@1.19.11/src/URI.min.js",
+        "asset_disk_path": "basset/cdn.jsdelivr.net/npm/urijs@1.19.11/src/URI.min.js",
+        "asset_attributes": []
+    },
+    "https://cdn.datatables.net/buttons/3.2.0/js/dataTables.buttons.min.js": {
+        "asset_name": "https://cdn.datatables.net/buttons/3.2.0/js/dataTables.buttons.min.js",
+        "asset_path": "https://cdn.datatables.net/buttons/3.2.0/js/dataTables.buttons.min.js",
+        "asset_disk_path": "basset/cdn.datatables.net/buttons/3.2.0/js/dataTables.buttons.min.js",
+        "asset_attributes": []
+    },
+    "https://cdn.datatables.net/buttons/3.2.0/js/buttons.bootstrap5.min.js": {
+        "asset_name": "https://cdn.datatables.net/buttons/3.2.0/js/buttons.bootstrap5.min.js",
+        "asset_path": "https://cdn.datatables.net/buttons/3.2.0/js/buttons.bootstrap5.min.js",
+        "asset_disk_path": "basset/cdn.datatables.net/buttons/3.2.0/js/buttons.bootstrap5.min.js",
+        "asset_attributes": []
+    },
+    "https://cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min.js": {
+        "asset_name": "https://cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min.js",
+        "asset_path": "https://cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min.js",
+        "asset_disk_path": "basset/cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min.js",
+        "asset_attributes": []
+    },
+    "https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.18/pdfmake.min.js": {
+        "asset_name": "https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.18/pdfmake.min.js",
+        "asset_path": "https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.18/pdfmake.min.js",
+        "asset_disk_path": "basset/cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.18/pdfmake.min.js",
+        "asset_attributes": []
+    },
+    "https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.18/vfs_fonts.js": {
+        "asset_name": "https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.18/vfs_fonts.js",
+        "asset_path": "https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.18/vfs_fonts.js",
+        "asset_disk_path": "basset/cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.18/vfs_fonts.js",
+        "asset_attributes": []
+    },
+    "https://cdn.datatables.net/buttons/3.2.0/js/buttons.html5.min.js": {
+        "asset_name": "https://cdn.datatables.net/buttons/3.2.0/js/buttons.html5.min.js",
+        "asset_path": "https://cdn.datatables.net/buttons/3.2.0/js/buttons.html5.min.js",
+        "asset_disk_path": "basset/cdn.datatables.net/buttons/3.2.0/js/buttons.html5.min.js",
+        "asset_attributes": []
+    },
+    "https://cdn.datatables.net/buttons/3.2.0/js/buttons.print.min.js": {
+        "asset_name": "https://cdn.datatables.net/buttons/3.2.0/js/buttons.print.min.js",
+        "asset_path": "https://cdn.datatables.net/buttons/3.2.0/js/buttons.print.min.js",
+        "asset_disk_path": "basset/cdn.datatables.net/buttons/3.2.0/js/buttons.print.min.js",
+        "asset_attributes": []
+    },
+    "https://cdn.datatables.net/buttons/3.2.0/js/buttons.colVis.min.js": {
+        "asset_name": "https://cdn.datatables.net/buttons/3.2.0/js/buttons.colVis.min.js",
+        "asset_path": "https://cdn.datatables.net/buttons/3.2.0/js/buttons.colVis.min.js",
+        "asset_disk_path": "basset/cdn.datatables.net/buttons/3.2.0/js/buttons.colVis.min.js",
+        "asset_attributes": []
+    },
+    "https://cdn.datatables.net/buttons/3.2.0/css/buttons.bootstrap5.min.css": {
+        "asset_name": "https://cdn.datatables.net/buttons/3.2.0/css/buttons.bootstrap5.min.css",
+        "asset_path": "https://cdn.datatables.net/buttons/3.2.0/css/buttons.bootstrap5.min.css",
+        "asset_disk_path": "basset/cdn.datatables.net/buttons/3.2.0/css/buttons.bootstrap5.min.css",
+        "asset_attributes": []
+    },
+    "https://cdn.datatables.net/2.1.8/js/dataTables.min.js": {
+        "asset_name": "https://cdn.datatables.net/2.1.8/js/dataTables.min.js",
+        "asset_path": "https://cdn.datatables.net/2.1.8/js/dataTables.min.js",
+        "asset_disk_path": "basset/cdn.datatables.net/2.1.8/js/dataTables.min.js",
+        "asset_attributes": []
+    },
+    "https://cdn.datatables.net/2.1.8/js/dataTables.bootstrap5.min.js": {
+        "asset_name": "https://cdn.datatables.net/2.1.8/js/dataTables.bootstrap5.min.js",
+        "asset_path": "https://cdn.datatables.net/2.1.8/js/dataTables.bootstrap5.min.js",
+        "asset_disk_path": "basset/cdn.datatables.net/2.1.8/js/dataTables.bootstrap5.min.js",
+        "asset_attributes": []
+    },
+    "https://cdn.datatables.net/responsive/3.0.3/js/dataTables.responsive.min.js": {
+        "asset_name": "https://cdn.datatables.net/responsive/3.0.3/js/dataTables.responsive.min.js",
+        "asset_path": "https://cdn.datatables.net/responsive/3.0.3/js/dataTables.responsive.min.js",
+        "asset_disk_path": "basset/cdn.datatables.net/responsive/3.0.3/js/dataTables.responsive.min.js",
+        "asset_attributes": []
+    },
+    "https://cdn.datatables.net/fixedheader/4.0.1/js/dataTables.fixedHeader.min.js": {
+        "asset_name": "https://cdn.datatables.net/fixedheader/4.0.1/js/dataTables.fixedHeader.min.js",
+        "asset_path": "https://cdn.datatables.net/fixedheader/4.0.1/js/dataTables.fixedHeader.min.js",
+        "asset_disk_path": "basset/cdn.datatables.net/fixedheader/4.0.1/js/dataTables.fixedHeader.min.js",
+        "asset_attributes": []
+    },
+    "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/crud/src/resources/assets/img/spinner.svg": {
+        "asset_name": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/crud/src/resources/assets/img/spinner.svg",
+        "asset_path": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/crud/src/resources/assets/img/spinner.svg",
+        "asset_disk_path": "basset/vendor/backpack/crud/src/resources/assets/img/spinner.svg",
+        "asset_attributes": []
+    },
+    "https://cdn.datatables.net/2.1.8/css/dataTables.bootstrap5.min.css": {
+        "asset_name": "https://cdn.datatables.net/2.1.8/css/dataTables.bootstrap5.min.css",
+        "asset_path": "https://cdn.datatables.net/2.1.8/css/dataTables.bootstrap5.min.css",
+        "asset_disk_path": "basset/cdn.datatables.net/2.1.8/css/dataTables.bootstrap5.min.css",
+        "asset_attributes": []
+    },
+    "https://cdn.datatables.net/responsive/3.0.3/css/responsive.dataTables.min.css": {
+        "asset_name": "https://cdn.datatables.net/responsive/3.0.3/css/responsive.dataTables.min.css",
+        "asset_path": "https://cdn.datatables.net/responsive/3.0.3/css/responsive.dataTables.min.css",
+        "asset_disk_path": "basset/cdn.datatables.net/responsive/3.0.3/css/responsive.dataTables.min.css",
+        "asset_attributes": []
+    },
+    "https://cdn.datatables.net/fixedheader/4.0.1/css/fixedHeader.dataTables.min.css": {
+        "asset_name": "https://cdn.datatables.net/fixedheader/4.0.1/css/fixedHeader.dataTables.min.css",
+        "asset_path": "https://cdn.datatables.net/fixedheader/4.0.1/css/fixedHeader.dataTables.min.css",
+        "asset_disk_path": "basset/cdn.datatables.net/fixedheader/4.0.1/css/fixedHeader.dataTables.min.css",
+        "asset_attributes": []
+    },
+    "https://cdn.jsdelivr.net/npm/@tabler/core@1.4.0/dist/js/tabler.min.js": {
+        "asset_name": "https://cdn.jsdelivr.net/npm/@tabler/core@1.4.0/dist/js/tabler.min.js",
+        "asset_path": "https://cdn.jsdelivr.net/npm/@tabler/core@1.4.0/dist/js/tabler.min.js",
+        "asset_disk_path": "basset/cdn.jsdelivr.net/npm/@tabler/core@1.4.0/dist/js/tabler.min.js",
+        "asset_attributes": {
+            "integrity": "sha256-tgx2Fg6XYkV027jPEKvmrummSTtgCW/fwV3R3SvZnrk=",
+            "crossorigin": "anonymous"
+        }
+    },
+    "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/theme-tabler/resources/assets/js/tabler.js": {
+        "asset_name": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/theme-tabler/resources/assets/js/tabler.js",
+        "asset_path": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/theme-tabler/resources/assets/js/tabler.js",
+        "asset_disk_path": "basset/vendor/backpack/theme-tabler/resources/assets/js/tabler.js",
+        "asset_attributes": []
+    },
+    "https://cdn.jsdelivr.net/npm/@tabler/core@1.4.0/dist/css/tabler.min.css": {
+        "asset_name": "https://cdn.jsdelivr.net/npm/@tabler/core@1.4.0/dist/css/tabler.min.css",
+        "asset_path": "https://cdn.jsdelivr.net/npm/@tabler/core@1.4.0/dist/css/tabler.min.css",
+        "asset_disk_path": "basset/cdn.jsdelivr.net/npm/@tabler/core@1.4.0/dist/css/tabler.min.css",
+        "asset_attributes": {
+            "integrity": "sha256-fvdQvRBUamldCxJ2etgEi9jz7F3n2u+xBn+dDao9HJo=",
+            "crossorigin": "anonymous"
+        }
+    },
+    "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/theme-tabler/resources/assets/css/style.css": {
+        "asset_name": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/theme-tabler/resources/assets/css/style.css",
+        "asset_path": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/theme-tabler/resources/assets/css/style.css",
+        "asset_disk_path": "basset/vendor/backpack/theme-tabler/resources/assets/css/style.css",
+        "asset_attributes": []
+    },
+    "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/theme-tabler/resources/assets/css/color-adjustments.css": {
+        "asset_name": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/theme-tabler/resources/assets/css/color-adjustments.css",
+        "asset_path": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/theme-tabler/resources/assets/css/color-adjustments.css",
+        "asset_disk_path": "basset/vendor/backpack/theme-tabler/resources/assets/css/color-adjustments.css",
+        "asset_attributes": []
+    },
+    "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/theme-tabler/resources/assets/css/skins/backpack-color-palette.css": {
+        "asset_name": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/theme-tabler/resources/assets/css/skins/backpack-color-palette.css",
+        "asset_path": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/theme-tabler/resources/assets/css/skins/backpack-color-palette.css",
+        "asset_disk_path": "basset/vendor/backpack/theme-tabler/resources/assets/css/skins/backpack-color-palette.css",
+        "asset_attributes": []
+    },
+    "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/theme-tabler/resources/assets/css/skins/glass.css": {
+        "asset_name": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/theme-tabler/resources/assets/css/skins/glass.css",
+        "asset_path": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/theme-tabler/resources/assets/css/skins/glass.css",
+        "asset_disk_path": "basset/vendor/backpack/theme-tabler/resources/assets/css/skins/glass.css",
+        "asset_attributes": []
+    },
+    "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/theme-tabler/resources/assets/css/skins/fuzzy-background.css": {
+        "asset_name": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/theme-tabler/resources/assets/css/skins/fuzzy-background.css",
+        "asset_path": "/home/rohitvishwakarma/test/pay-in-pay-out/vendor/backpack/theme-tabler/resources/assets/css/skins/fuzzy-background.css",
+        "asset_disk_path": "basset/vendor/backpack/theme-tabler/resources/assets/css/skins/fuzzy-background.css",
+        "asset_attributes": []
+    },
+    "tabler-menu-javascript.js": {
+        "asset_name": "tabler-menu-javascript.js",
+        "asset_path": "/home/rohitvishwakarma/test/pay-in-pay-out/tabler-menu-javascript.js",
+        "asset_disk_path": "basset/tabler-menu-javascript-0a9427d9.js",
+        "asset_attributes": []
+    },
+    "https://www.gravatar.com/avatar/258d8dc916db8cea2cafb6c3cd0cb0246efe061421dbd83ec3a350428cabda4f.jpg?s=80&d=blank&r=g": {
+        "asset_name": "https://www.gravatar.com/avatar/258d8dc916db8cea2cafb6c3cd0cb0246efe061421dbd83ec3a350428cabda4f.jpg?s=80&d=blank&r=g",
+        "asset_path": "https://www.gravatar.com/avatar/258d8dc916db8cea2cafb6c3cd0cb0246efe061421dbd83ec3a350428cabda4f.jpg?s=80&d=blank&r=g",
+        "asset_disk_path": "basset/www.gravatar.com/avatar/258d8dc916db8cea2cafb6c3cd0cb0246efe061421dbd83ec3a350428cabda4f.jpg",
+        "asset_attributes": []
+    },
+    "backpack/crud/buttons/delete-button.js": {
+        "asset_name": "backpack/crud/buttons/delete-button.js",
+        "asset_path": "/home/rohitvishwakarma/test/pay-in-pay-out/backpack/crud/buttons/delete-button.js",
+        "asset_disk_path": "basset/backpack/crud/buttons/delete-button-ddf4da42.js",
+        "asset_attributes": []
+    },
+    "https://www.gravatar.com/avatar/c76d10d23bd1a20891d1edc075d66d2b639397efe778dc5597248fdd3227a0ea.jpg?s=80&d=blank&r=g": {
+        "asset_name": "https://www.gravatar.com/avatar/c76d10d23bd1a20891d1edc075d66d2b639397efe778dc5597248fdd3227a0ea.jpg?s=80&d=blank&r=g",
+        "asset_path": "https://www.gravatar.com/avatar/c76d10d23bd1a20891d1edc075d66d2b639397efe778dc5597248fdd3227a0ea.jpg?s=80&d=blank&r=g",
+        "asset_disk_path": "basset/www.gravatar.com/avatar/c76d10d23bd1a20891d1edc075d66d2b639397efe778dc5597248fdd3227a0ea.jpg",
+        "asset_attributes": []
+    }
+}
